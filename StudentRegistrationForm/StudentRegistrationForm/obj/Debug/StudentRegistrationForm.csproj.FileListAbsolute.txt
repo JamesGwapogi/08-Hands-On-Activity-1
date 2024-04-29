@@ -1,0 +1,10 @@
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.exe.config
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.exe
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\bin\Debug\StudentRegistrationForm.pdb
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.Form1.resources
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.Properties.Resources.resources
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.csproj.GenerateResource.cache
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.exe
+C:\Users\James Carrascal\source\repos\StudentRegistrationForm\StudentRegistrationForm\obj\Debug\StudentRegistrationForm.pdb
